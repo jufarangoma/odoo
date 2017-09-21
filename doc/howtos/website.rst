@@ -21,7 +21,7 @@ Modules customize the behavior of an Odoo installation, either by adding new
 behaviors or by altering existing ones (including behaviors added by other
 modules).
 
-:ref:`Odoo's scaffolding <reference/cmdline/scaffold>` can setup a basic
+:ref:`Odoo's scaffolding <../reference/cmdline/scaffold>` can setup a basic
 module. To quickly get started simply invoke:
 
 .. code-block:: console
