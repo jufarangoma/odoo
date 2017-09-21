@@ -1,4 +1,4 @@
-:banner: .. image:: banners/build_a_website.jpg
+:banner: .. image:: _static/banners/build_a_website.jpg
 
 .. queue:: website/series
 
